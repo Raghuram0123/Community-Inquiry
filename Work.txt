@@ -1,0 +1,24 @@
+SocialQ&A An Online Social Network Based Question and Answer System
+
+
+
+Admin
+
+-- Login
+
+-- View all End Users and Authorize
+
+-- View all friend request and Response
+
+
+User
+
+--- Register with Doctor,Engineer,Professor,Scientist,Sport Man,Lawer,Others
+
+--- Login
+
+--- View Profile 
+
+--- Search Friends and Req.Friend
+
+--- View all Your Friends 
